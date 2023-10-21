@@ -1,0 +1,75 @@
+body {
+  text-align: center;
+  background-color: rgb(250, 239, 233);
+}
+
+h1 {
+  margin-top: 50px; 
+}
+h1 {
+  font-family: 'Teko', sans-serif;
+  font-size: 30px;
+  font-weight: normal;
+
+  margin-top: 50px;
+}
+
+.negroes {
+  fill: black;
+  stroke: black;
+}
+
+.france {
+  fill: orange;
+  stroke: black;
+}
+.text {
+  font-family: 'Signika Negative', sans-serif;
+  font-size: 10px;
+}
+
+.ftext {
+  font-family: 'Signika Negative', sans-serif;
+  font-size: 10px;
+}
+.title {
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 13px;
+  fill: black;
+  font-weight: bold;
+}
+
+.subtitle {
+  font-family: 'Rajdhani', sans-serif;
+  font-size: 57px;
+  fill: black;
+}
+
+
+.percentage-label {
+  font-family: 'Koulen', cursive;
+  font-size: 10px;
+  fill: white;
+
+  text-anchor: middle;
+
+  font-weight: normal;
+}
+.orangelevel {
+  font-family: 'Koulen', cursive;
+  font-size: 10px;
+  fill: black;
+
+  text-anchor: middle;
+
+  font-weight: normal;
+}
+.rectangle {
+  fill: black;
+  stroke: black;
+}
+
+.orange-rectangle {
+  fill: orange;
+  stroke: orange;
+}
