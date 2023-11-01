@@ -6,4 +6,5 @@ Course Coordination: Dr. Ate Poorthuis, Division of Geography and Tourism, Leuve
 Teaching Assistant: Anirudh Govind (Doctoral Researcher at KU Leuven). 
 Author Name: Ratan Chandra Bhowmick, Department of Geography, Vrije Universiteit Brussel.
 
-## AI-generated platform is being used to error verification of the code and help to understand the javascript ##
+# Warning #
+## AI-generated platform is being used to error verification of the code and helps to understand the javascript ##
