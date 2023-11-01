@@ -7,4 +7,4 @@ Teaching Assistant: Anirudh Govind (Doctoral Researcher at KU Leuven).
 Author Name: Ratan Chandra Bhowmick, Department of Geography, Vrije Universiteit Brussel.
 
 # Warning #
-## AI-generated platform is being used to error verification of the code and helps to understand the javascript ##
+## AI-generated platform is being used to error verification of the code and re-generated some parts of the code ##
